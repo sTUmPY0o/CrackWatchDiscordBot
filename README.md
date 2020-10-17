@@ -4,6 +4,7 @@
 A bot which uses the websocket connection at [crackwatch.com](https://crackwatch.com) to query results.\
 Should work with no issues on any platform supported by Go.
 
+
 # Why?
 Because
 [the other guys who were making one](https://old.reddit.com/r/CrackWatch/comments/i34eel/discord_bot_prototype)
